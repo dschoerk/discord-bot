@@ -1,0 +1,4 @@
+module.exports = {
+	bot_token: "<discord bot token>",
+	giphy_token: "<giphy api toke>"
+}
