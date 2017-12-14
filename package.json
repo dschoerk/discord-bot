@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.io": "^2.5.3",
+    "discord.io": "github:woor/discord.io#gateway_v6",
     "request": "^2.83.0"
   }
 }

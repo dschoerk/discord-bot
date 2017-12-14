@@ -10,6 +10,8 @@ var bot = new Discord.Client( {
     token : config.bot_token
 });
 
+bot.connect();
+
 bot.on('ready', () => {
         console.log('Logged in as %s - %s\n', bot.username, bot.id);
 });
